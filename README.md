@@ -1,5 +1,6 @@
 # SolarWolf
-Game developed with Unity3D similar to SolarWolf game which was orignally developed in Python. Credit goes to 'Pete Shinners' who made the actual game.
+Game developed with Unity3D similar to SolarWolf game which was orignally developed in Python. 
+Credit goes to 'Pete Shinners' who made the actual game.
 
 
 ## Link to windows files
