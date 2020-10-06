@@ -9,8 +9,8 @@ The speed of shots increases.
 
 ## There are 3 types of boxes
 Green: Pass once  
-Yellow: Pass 2 times  
-Red: Pass 3 times  
+Yellow: Pass twice  
+Red: Pass thrice  
 
 ## Links
 [windows files](https://drive.google.com/drive/folders/0BwcoMJ0DNQ-Rfi1ILUswM1dBNlpkeEJJX2lqN05qZkRfc1dNeEgxb3p1Q19YaTl4MDcyMFE?usp=sharing)  
