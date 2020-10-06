@@ -4,8 +4,8 @@ gunshots and collect the boxes to progress through the levels. As the player pro
 the levels, the difficulty increases as the levels progress.
 
 ## Features
-The rate of firing canon shots increases. 
-The speed of shots increases. 
+The rate of firing canon shots increases  
+The speed of shots increases  
 
 ## There are 3 types of boxes
 Green: Pass once  
