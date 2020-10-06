@@ -1,7 +1,6 @@
 # SolarWolf
 Simple Arcade game made in Unity3D where canons fire gunshots from various directions. Player has to evade the 
-gunshots and collect the boxes to progress through the levels. As the player progresses through 
-the levels, the difficulty increases as the levels progress.
+gunshots and collect the boxes to progress through the levels. The difficulty increases as the levels progress.
 
 ## Features
 The rate of firing canon shots increases  
