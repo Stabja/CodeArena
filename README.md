@@ -12,7 +12,7 @@ Green: Pass once
 Yellow: Pass 2 times
 Red: Pass 3 times
 
-[windows files](https://drive.google.com/drive/folders/0BwcoMJ0DNQ-Rfi1ILUswM1dBNlpkeEJJX2lqN05qZkRfc1dNeEgxb3p1Q19YaTl4MDcyMFE?usp=sharing)
-[apk file](https://drive.google.com/file/d/0BwcoMJ0DNQ-RMVhpTXE5aEl4cUE/view?usp=sharing)
-[windows](https://drive.google.com/file/d/0BwcoMJ0DNQ-RYTNYRFBqdHJIc3M/view?usp=sharing)
-[original game](https://www.pygame.org/shredwheat/solarwolf/index.shtml)
+[windows files](https://drive.google.com/drive/folders/0BwcoMJ0DNQ-Rfi1ILUswM1dBNlpkeEJJX2lqN05qZkRfc1dNeEgxb3p1Q19YaTl4MDcyMFE?usp=sharing)  
+[apk file](https://drive.google.com/file/d/0BwcoMJ0DNQ-RMVhpTXE5aEl4cUE/view?usp=sharing)  
+[windows](https://drive.google.com/file/d/0BwcoMJ0DNQ-RYTNYRFBqdHJIc3M/view?usp=sharing)  
+[original game](https://www.pygame.org/shredwheat/solarwolf/index.shtml)  
